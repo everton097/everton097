@@ -1,4 +1,4 @@
-### Yo! Eu sou Everton Silva
+### Yo, I'm Everton,
 <!--<h3><img align="center" alt="Eve-GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">Status GitHub</h3>-->
 <div align="center">
   <a href="https://github.com/everton097">
@@ -42,7 +42,6 @@
  <img align="right" alt="Eve-anime" height="285" style="border-radius:50px;" src="https://c.tenor.com/BDj2rvnpDpwAAAAS/anime-watch.gif">
 </div>
   
-- 📍 Canoinhas, Brasil;
-- 🌱 Estudante de Análise e Desenvolvimento de Sistemas - IFSC
-- 😄 Pronomes: ele/dele
+- 📍 Canoinhas, Brazil;
+- 🌱 Technologist in System Analysis and Development
   
