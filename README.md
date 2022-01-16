@@ -58,4 +58,4 @@
   
 - 📍 Canoinhas, Brazil;
 - 🌱 Technologist in System Analysis and Development
-<!-- https://devicon.dev/ https://dev.to/envoy_/150-badges-for-github-pnk  https://github.com/alexandresanlim/Badges4-README.md-Profile#-social- https://github.com/alexandresanlim/Badges4-README.md-Profile#-social-  -->
+<!--References https://devicon.dev/ https://dev.to/envoy_/150-badges-for-github-pnk  https://github.com/alexandresanlim/Badges4-README.md-Profile#-social- https://github.com/alexandresanlim/Badges4-README.md-Profile#-social- https://github.com/progfay/shields-with-icon https://github.com/danmadeira/simple-icon-badges/blob/main/README.md  https://github.com/iuricode/README-template/blob/main/badges/badges.md  -->
