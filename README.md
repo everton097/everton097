@@ -39,7 +39,7 @@
 <div>
   
  ![Snake animation](https://github.com/everton097/everton097/blob/output/github-contribution-grid-snake.svg)
- <img align="right" alt="Eve-anime" height="300" style="border-radius:50px;" src="https://c.tenor.com/BDj2rvnpDpwAAAAS/anime-watch.gif">
+ <img align="right" alt="Eve-anime" height="285" style="border-radius:50px;" src="https://c.tenor.com/BDj2rvnpDpwAAAAS/anime-watch.gif">
 </div>
   
 - 📍 Canoinhas, Brasil;
