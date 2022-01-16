@@ -7,7 +7,7 @@
 </div> 
   
 <div>
-<img align="right" alt="Eve-anime" height="200" style="border-radius:50px;" src="https://images-ext-1.discordapp.net/external/1tT2zybqFzFLvc8vEtcHmFORz-xGte_U6r4W-zOU0b0/https/media.tenor.co/images/f2e10500914e7126ca10c7a282dc1b80/tenor.png?width=524&height=566">
+<img align="right" alt="Eve-anime" height="280" style="border-radius:50px;" src="https://images-ext-1.discordapp.net/external/1tT2zybqFzFLvc8vEtcHmFORz-xGte_U6r4W-zOU0b0/https/media.tenor.co/images/f2e10500914e7126ca10c7a282dc1b80/tenor.png?width=524&height=566">
 </div>
   
 <div style="display: inline_block"><br>
